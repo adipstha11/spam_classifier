@@ -98,13 +98,7 @@ That is why **Linear SVM** delivered the strongest overall results: it achieved 
 
 Overall, **Linear SVM** appears to be the most balanced model for this dataset, while **Random Forest** is a practical alternative when minimizing false positives is the top priority.
 
-## Future Improvements
 
-- Rename the notebook to something more descriptive (for example, `sms_spam_classifier.ipynb`)
-- Add a `requirements.txt` file
-- Save the best model and vectorizer with `joblib`
-- Add a prediction script or simple API endpoint
-- Add plots for side-by-side metric comparison
 
 ## Author
 
