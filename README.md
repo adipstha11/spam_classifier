@@ -1,6 +1,6 @@
 # SMS Spam Classifier
 
-A beginner-friendly machine learning project that classifies SMS messages as `ham` (not spam) or `spam` using Python and scikit-learn.
+A  machine learning project that classifies SMS messages as `ham` (not spam) or `spam` using Python and scikit-learn.
 
 ## Project Overview
 
